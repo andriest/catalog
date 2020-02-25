@@ -1,5 +1,5 @@
 name := """catalog"""
-organization := "styletheory"
+organization := "com.styletheory.catalog"
 
 version := "1.0-SNAPSHOT"
 
